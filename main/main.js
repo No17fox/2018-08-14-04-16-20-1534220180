@@ -12,7 +12,6 @@ class Sequence {
     // Write your code here
 	this.input = input;
 	this.len = input.length;
-	this.len = input.length;
   }
 
   minimum() {
